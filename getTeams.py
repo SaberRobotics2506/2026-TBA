@@ -1,8 +1,18 @@
 import requests
 import pandas as pd
+import os
+
+##########################################################
+## YOU MUST SET ENVIRONMENT VARIABLES FOR YOUR API KEYS ##
+## To do this, create a file in the same directory      ##
+## named '.env' Place 'API_KEY_TEAMS=' and place your   ##
+## API key there. Do not share this key.                ##
+## The Blue Alliance API Documentation can be found at: ##
+## https://www.thebluealliance.com/apidocs/             ##
+##########################################################
 
 API_URL = "https://www.thebluealliance.com/api/v3"
-API_KEY = "gAFGsJ0rhLBWsubSA9TWSdvAM6ECWFa8x2NdzFJ8kTPMFnH1GLwpwxaRzgMdujO3"
+API_KEY = os.getenv("API_KEY_TEAMS")
 EVENT_CODE = "2026wimuk"
 
 def getEventTeams(eventKey):
