@@ -13,7 +13,7 @@ import os
 
 API_URL = "https://www.thebluealliance.com/api/v3"
 API_KEY = os.getenv("API_KEY_TEAMS")
-EVENT_CODE = "2026wimuk"
+EVENT_CODE = "2016nytr"
 
 def getEventTeams(eventKey):
     try:

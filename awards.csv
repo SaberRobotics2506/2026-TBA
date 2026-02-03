@@ -1,0 +1,23 @@
+,award_type,event_key,name,recipient_list,year
+0,0,2016nytr,Regional Chairman's Award,"[{'awardee': None, 'team_key': 'frc229'}]",2016
+1,1,2016nytr,Regional Winners,"[{'awardee': None, 'team_key': 'frc359'}, {'awardee': None, 'team_key': 'frc3990'}, {'awardee': None, 'team_key': 'frc4508'}]",2016
+2,10,2016nytr,Rookie All Star Award,"[{'awardee': None, 'team_key': 'frc5879'}]",2016
+3,11,2016nytr,Gracious Professionalism Award sponsored by Johnson & Johnson,"[{'awardee': None, 'team_key': 'frc20'}]",2016
+4,13,2016nytr,Judges' Award,"[{'awardee': None, 'team_key': 'frc250'}]",2016
+5,14,2016nytr,Highest Rookie Seed,"[{'awardee': None, 'team_key': 'frc5964'}]",2016
+6,15,2016nytr,Rookie Inspiration Award sponsored by National Instruments,"[{'awardee': None, 'team_key': 'frc5943'}]",2016
+7,16,2016nytr,Industrial Design Award sponsored by General Motors,"[{'awardee': None, 'team_key': 'frc5254'}]",2016
+8,17,2016nytr,Quality Award sponsored by Motorola Solutions Foundation,"[{'awardee': None, 'team_key': 'frc2791'}]",2016
+9,18,2016nytr,Industrial Safety Award sponsored by Underwriters Laboratories,"[{'awardee': None, 'team_key': 'frc48'}]",2016
+10,2,2016nytr,Regional Finalists,"[{'awardee': None, 'team_key': 'frc5254'}, {'awardee': None, 'team_key': 'frc20'}, {'awardee': None, 'team_key': 'frc229'}, {'awardee': None, 'team_key': 'frc1665'}]",2016
+11,20,2016nytr,Creativity Award sponsored by Xerox,"[{'awardee': None, 'team_key': 'frc3419'}]",2016
+12,21,2016nytr,Excellence in Engineering Award sponsored by Delphi,"[{'awardee': None, 'team_key': 'frc3003'}]",2016
+13,22,2016nytr,Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers,"[{'awardee': None, 'team_key': 'frc48'}]",2016
+14,27,2016nytr,Imagery Award in honor of Jack Kamen,"[{'awardee': None, 'team_key': 'frc4481'}]",2016
+15,29,2016nytr,Innovation in Control Award sponsored by Rockwell Automation,"[{'awardee': None, 'team_key': 'frc359'}]",2016
+16,3,2016nytr,Woodie Flowers Finalist Award,"[{'awardee': 'Steve Schlegel', 'team_key': 'frc3003'}]",2016
+17,30,2016nytr,Team Spirit Award sponsored by FCA Foundation,"[{'awardee': None, 'team_key': 'frc3044'}]",2016
+18,4,2016nytr,FIRST Dean's List Finalist Award,"[{'awardee': 'Sophia Sugarman', 'team_key': 'frc4856'}, {'awardee': 'Amanda Horne', 'team_key': 'frc250'}]",2016
+19,5,2016nytr,Volunteer of the Year,"[{'awardee': 'Paul Schoch', 'team_key': None}, {'awardee': 'Jim Cummins', 'team_key': None}]",2016
+20,68,2016nytr,Wildcard,"[{'awardee': None, 'team_key': 'frc5254'}, {'awardee': None, 'team_key': 'frc1665'}]",2016
+21,9,2016nytr,Regional Engineering Inspiration Award,"[{'awardee': None, 'team_key': 'frc3990'}]",2016
