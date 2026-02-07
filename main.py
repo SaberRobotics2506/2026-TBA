@@ -1,3 +1,5 @@
+# Sign out of thebluealliance.com before using an API Key
+
 from apiClass import api
 import pandas as pd
 
